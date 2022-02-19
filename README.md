@@ -130,7 +130,7 @@ if _name_ == '_main_':
     print("Stopped video streaming...")
     
     ep_robot.close()
-[7:04 PM, 2/18/2022] Mothi Bro💙: from robomaster import robot
+from robomaster import robot
 import time
 
 if _name_ == '_main_':
